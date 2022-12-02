@@ -1,4 +1,4 @@
-### time-cli
+# time-cli
 
 
 ## Get started
