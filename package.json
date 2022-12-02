@@ -1,0 +1,28 @@
+{
+  "name": "time-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write --ignore-unknown **"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "ink": "^3.2.0",
+    "ink-big-text": "^1.2.0",
+    "ink-spinner": "^4.0.3",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@posop/prettier-config": "^1.4.2",
+    "@types/ink": "^2.0.3",
+    "@types/ink-big-text": "^1.2.1",
+    "@types/ink-spinner": "^3.0.1",
+    "@types/node": "^18.11.10",
+    "@types/react": "^18.0.25"
+  }
+}
