@@ -3,9 +3,9 @@
 
 ## Get started
 ```sh
-    npm install
+npm install
 ```
 
 ```sh
-    npm start
+npm start
 ```
